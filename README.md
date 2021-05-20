@@ -1,6 +1,6 @@
 ![ninjacodingturtle](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
-<p align="center">
-  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="animated" />
+<p align="center" width="100%">
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="animated" width="100%" />
 </p>
 ### Hi there 👋
 
