@@ -1,5 +1,7 @@
 ![ninjacodingturtle](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="animated" />
+</p>
 ### Hi there 👋
 
 <!--
