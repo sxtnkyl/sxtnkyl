@@ -2,36 +2,40 @@
   <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="animated" />
 </p>
 
+<p align="center">
 # Hello, visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</p>
 
 ### About Me
+
 My name is Kyle Sexton- a motivated, self-taught, web developer looking for the next step in my programming career. I love creating unique experiences and helpful tools with React and Nodejs.
 
 I currently reside in Atlanta, GA, and come from an atypical career background. I’m a former geologist, with 5 years of engineering consulting experience, having specialized in geophysics and environmental remediation.
 
-Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!
+<p align="center>Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!</p>
 
 ### Currently Favorite Tool List
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Langs:-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="animated" />
+  <img src="https://img.shields.io/badge/Langs:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
   <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Typescript-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Front End:-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="animated" />
+  <img src="https://img.shields.io/badge/Front End:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
   <img src="https://img.shields.io/badge/React-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Framer Motion-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Material UI-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Nextjs-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Back End:-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="animated" />
+  <img src="https://img.shields.io/badge/Back End:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
   <img src="https://img.shields.io/badge/GraphQL-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Nodejs-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/NoSQL DBs-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS Cloud Tools:-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="animated" />
+  <img src="https://img.shields.io/badge/AWS Cloud Tools:-informational?style=flat&logo=https://simpleicons.org/icons/amazonaws.svg&logoColor=white&color=2bbc8a" alt="animated" />
   <img src="https://img.shields.io/badge/Amplify-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Cognito User Pools-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Appsync-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
