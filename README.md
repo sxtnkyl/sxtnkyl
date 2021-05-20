@@ -1,3 +1,5 @@
+![ninjacodingturtle](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
+
 ### Hi there 👋
 
 <!--
