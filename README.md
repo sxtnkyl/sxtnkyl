@@ -41,6 +41,13 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
 
 ## <p align="center">Currently Working On</p>
 
+### Cloudfront Log Parser
+
+An exercise in nodejs and data pipelines. Currently, this tool retrieves/organizes cloudfront logs from an S3 bucket, formats the logs into readable json formats, and creates a conglomerated json for a given month. Future implementation will run a scheduled lambda event to format and pipe the data into dynamoDB, where AWS Athena and QQuicksight will produce usefull website analytics.    
+
+### Beer Bulletin
+
+Fully AWS-cloud supported PWA/TWA mobile app. A place to find and trade beers, keep track of visited breweries, and unlock in app milestones. AWS Amplify is being utilized to incorporate user auth(Cognito), GraphQL API(AppSync), advanced data access patterns(DynamoDB), and in-app event triggers(Lambda). Nextjs will provide smooth server-side rendering, SEO, accessibility, and other necessary features to be deployed on the android app store. 
 
 <!--
 guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
