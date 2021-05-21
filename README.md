@@ -12,7 +12,7 @@ My name is Kyle Sexton- a motivated, self-taught, web developer looking for the 
 
 I currently reside in Atlanta, GA, and come from an atypical career background. I’m a former geologist, with 5 years of engineering consulting experience, having specialized in geophysics and environmental remediation.
 
-<p align="center">Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!</p>
+<p align="center">Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/) !</p>
 
 ### Currently Favorite Tool List
 
@@ -24,7 +24,7 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
 <p align="center">
   <img src="https://img.shields.io/badge/Front End:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
   <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=539E3B" alt="animated" />
-  <img src="https://img.shields.io/badge/Framer Motion-informational?style=flat&logo=framer-motion&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/Framer Motion-informational?style=flat&logo=[1]&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Material UI-informational?style=flat&logo=material-ui&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Nextjs-informational?style=flat&logo=next-dot-js&logoColor=white&color=539E3B" alt="animated" />
 </p>
@@ -38,7 +38,7 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
   <img src="https://img.shields.io/badge/AWS Cloud Tools:-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="animated" />
   <img src="https://img.shields.io/badge/Amplify-informational?style=flat&logo=aws-amplify&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Cognito-informational?style=flat&logo=aws-cognito&logoColor=white&color=539E3B" alt="animated" />
-  <img src="https://img.shields.io/badge/Appsync-informational?style=flat&logo=aws-appsync&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/Appsync-informational?style=flat&logo=graphql&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/DynamoDB-informational?style=flat&logo=aws-dynamodb&logoColor=white&color=539E3B" alt="animated" />
 </p>
@@ -50,16 +50,9 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
 <!--
 guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 emojis: https://emojipedia.org/objects/
-**sxtnkyl/sxtnkyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+logos: https://worldvectorlogo.com/logo/ https://dev.to/envoy_/150-badges-for-github-pnk https://simpleicons.org/
+svg encoder: https://b64.io/
+Reference Links: https://stackoverflow.com/questions/24580042/github-markdown-are-macros-and-variables-possible
 -->
+<!--framer motion-->
+[1]: data:image/svg;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RnJhbWVyIGljb248L3RpdGxlPjxwYXRoIGQ9Ik00IDBoMTZ2OGgtOHpNNCA4aDhsOCA4SDR6TTQgMTZoOHY4eiIvPjwvc3ZnPg==
