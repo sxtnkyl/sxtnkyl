@@ -26,12 +26,12 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
   <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Framer Motion-informational?style=flat&logo=framer-motion&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Material UI-informational?style=flat&logo=material-ui&logoColor=white&color=539E3B" alt="animated" />
-  <img src="https://img.shields.io/badge/Nextjs-informational?style=flat&logo=nextjs&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/Nextjs-informational?style=flat&logo=next-dot-js&logoColor=white&color=539E3B" alt="animated" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Back End:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
   <img src="https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=539E3B" alt="animated" />
-  <img src="https://img.shields.io/badge/Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/Nodejs-informational?style=flat&logo=node-dot-js&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/NoSQL DBs-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
 </p>
 <p align="center">
