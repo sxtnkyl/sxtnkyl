@@ -10,7 +10,7 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
 
 ### <p align="center">Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!</p>
 
-## <p align="center">Current Favorite Tools</p>
+## <p align="center">🧰 Current Favorite Tools</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Langs:-informational?style=flat&logo=langs&logoColor=black&color=AA62FF" alt="animated" />
@@ -39,15 +39,17 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
   <img src="https://img.shields.io/badge/DynamoDB-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjIxNSIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI4OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTE2NS4yNTggMjg4LjUwMWgzLjUwOGw1Ny4yNjEtMjguNjM0Ljk1My0xLjM0N1YyOS45NjRsLS45NTMtMS4zNTRMMTY4Ljc2NiAwaC0zLjU1MWwuMDQzIDI4OC41MDEiIGZpbGw9IiM1Mjk0Q0YiLz48cGF0aCBkPSJNOTAuNzQxIDI4OC41MDFoLTMuNTU3bC01Ny4yMTItMjguNjM0LTEuMTYxLTEuOTk3LS41ODktMjI2Ljc0MiAxLjc1LTIuNTE4TDg3LjE4NCAwaDMuNjAxbC0uMDQ0IDI4OC41MDEiIGZpbGw9IiMxRjVCOTgiLz48cGF0aCBkPSJNODcuMjg1IDBoODEuNDI2djI4OC41MDFIODcuMjg1VjB6IiBmaWxsPSIjMkQ3MkI4Ii8+PHBhdGggZD0iTTI1NiAxMzcuNzY5bC0xLjkzNS0uNDI5LTI3LjYyOC0yLjU3Ni0uNDEuMjA0LTU3LjMxMi0yLjI5MmgtODEuNDNsLTU3LjMxMyAyLjI5MlY5MS4yNjRsLS4wNi4wMzIuMDYtLjEyOCA1Ny4zMTMtMTMuMjhoODEuNDNsNTcuMzEyIDEzLjI4IDIxLjA2OSAxMS4xOTl2LTcuMmw4LjkwNC0uOTc0LS45MjItMS43OTgtMjguMTkyLTIwLjE1OS0uODU5LjI3OS01Ny4zMTItMTcuNzU5aC04MS40M0wyOS45NzIgNzIuNTE1VjI4LjYxTDAgNjMuNzIzdjMwLjY2NmwuMjMyLS4xNjggOC42NzIuOTQ2djcuMzQ4TDAgMTA3LjI4djMwLjUxM2wuMjMyLS4wMjQgOC42NzIuMTI4djEyLjgwN2wtNy40ODIuMTEyTDAgMTUwLjY4djMwLjUyNWw4LjkwNCA0Ljc4OHY3LjQzM2wtOC41MzEuOTQyLS4zNzMtLjI4djMwLjY2MWwyOS45NzIgMzUuMTE4di00My45MDFsNTcuMzEzIDE3Ljc1OWg4MS40M2w1Ny40ODEtMTcuODExLjc2NC4zMzUgMjcuODIxLTE5Ljg2MiAxLjIxOS0xLjk3OS04LjkwNC0uOTgydi03LjI4NGwtMS4xNjctLjQ2Ni0xOS4wNDMgMTAuMjY1LS42OSAxLjQ0LTU3LjQ4MSAxMy4yMDN2LjAxNmgtODEuNDN2LS4wMTZsLTU3LjMxMy0xMy4yNTl2LTQzLjg2NGw1Ny4zMTMgMi4yODR2LjA1Nmg4MS40M2w1Ny4zMTItMi4zNCAxLjMwNS42IDI2Ljc3OS0yLjMwNiAxLjg4OS0uOTIzLTguOTA0LS4xMjh2LTEyLjgwN2w4LjkwNC0uMTI4IiBmaWxsPSIjMUE0NzZGIi8+PHBhdGggZD0iTTIyNi4wMjcgMjE1Ljk2NnY0My45MDFMMjU2IDIyNC43NDl2LTMwLjQ2MWwtMjkuOCAyMS42MjYtLjE3My4wNTJNMjI2LjAyNyAxOTcuNDIxbC4xNzMtLjA0IDI5LjgtMTYuMDI4di0zMC42NDlsLTI5Ljk3MyAyLjc1N3Y0My45Nk0yMjYuMiA5MS4yMDhsLS4xNzMtLjA0djQzLjhMMjU2IDEzNy43Njl2LTMwLjYzNGwtMjkuOC0xNS45MjdNMjI2LjIgNzIuNjg3TDI1NiA5NC4xOTNWNjMuNzMxTDIyNi4wMjcgMjguNjF2NDMuOTA1bC4xNzMuMDZ2LjExMiIgZmlsbD0iIzJENzJCOCIvPjwvc3ZnPg==&logoColor=black&color=539E3B" alt="animated" />
 </p>
 
-## <p align="center">Currently Working On</p>
+## <p align="center">👷 Currently Working On</p>
 
 ### Cloudfront Log Parser
 
-An exercise in nodejs and data pipelines. Currently, this tool retrieves/organizes cloudfront logs from an S3 bucket, formats the logs into readable json formats, and creates a conglomerated json for a given month. Future implementation will run a scheduled lambda event to format and pipe the data into dynamoDB, where AWS Athena and QQuicksight will produce usefull website analytics.    
+An exercise in nodejs and data pipelines. Currently, this tool retrieves/organizes cloudfront logs from an S3 bucket, formats the logs into readable json formats, and creates a conglomerated json for a given month. Future implementation will run a scheduled lambda event to format and pipe the data into dynamoDB, where AWS Athena and Quicksight will produce useful website analytics.    
 
 ### Beer Bulletin
 
 Fully AWS-cloud supported PWA/TWA mobile app. A place to find and trade beers, keep track of visited breweries, and unlock in app milestones. AWS Amplify is being utilized to incorporate user auth(Cognito), GraphQL API(AppSync), advanced data access patterns(DynamoDB), and in-app event triggers(Lambda). Nextjs will provide smooth server-side rendering, SEO, accessibility, and other necessary features to be deployed on the android app store. 
+
+## <p align="center">👍 In the meantime, check out my other completed projects below or on my [portfolio](http://ksextonexe.info/)! 👍</p>
 
 <!--
 guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
