@@ -32,7 +32,7 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
   <img src="https://img.shields.io/badge/Back End:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
   <img src="https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Nodejs-informational?style=flat&logo=node-dot-js&logoColor=white&color=539E3B" alt="animated" />
-  <img src="https://img.shields.io/badge/NoSQL DBs-informational?style=flat&logo=✔️&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/NoSQL DBs-informational?style=flat&logo=json&logoColor=white&color=539E3B" alt="animated" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS Cloud Tools:-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="animated" />
