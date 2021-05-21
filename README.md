@@ -12,7 +12,7 @@ My name is Kyle Sexton- a motivated, self-taught, web developer looking for the 
 
 I currently reside in Atlanta, GA, and come from an atypical career background. I’m a former geologist, with 5 years of engineering consulting experience, having specialized in geophysics and environmental remediation.
 
-<p align="center>Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!</p>
+<p align="center">Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!</p>
 
 ### Currently Favorite Tool List
 
@@ -23,8 +23,8 @@ I currently reside in Atlanta, GA, and come from an atypical career background. 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Front End:-informational?style=flat&logo=javascript&logoColor=white&color=AA62FF" alt="animated" />
-  <img src="https://img.shields.io/badge/React-informational?style=flat&logo=✔react&logoColor=white&color=539E3B" alt="animated" />
-  <img src="https://img.shields.io/badge/Framer Motion-informational?style=flat&logo=✔framer-motion&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=539E3B" alt="animated" />
+  <img src="https://img.shields.io/badge/Framer Motion-informational?style=flat&logo=framer-motion&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Material UI-informational?style=flat&logo=material-ui&logoColor=white&color=539E3B" alt="animated" />
   <img src="https://img.shields.io/badge/Nextjs-informational?style=flat&logo=next-js&logoColor=white&color=539E3B" alt="animated" />
 </p>
