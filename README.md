@@ -4,9 +4,9 @@
 
 # <p align="center"> Hello, visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-My name is Kyle Sexton- a motivated, self-taught, web developer looking for the next step in my programming career. I love creating unique experiences and helpful tools with React and Nodejs.
+My name is Kyle Sexton- a motivated, self-taught, Frontend Engineer. I love creating unique experiences and helpful tools with React and AWS services.
 
-I currently reside in Atlanta, GA, and come from an atypical career background. I’m a former geologist, with 5 years of engineering consulting experience, having specialized in geophysics and environmental remediation.
+I currently reside in Atlanta, GA, and come from an atypical software background. I’m a former geologist who found a passion for web development and now have a Frontend Engineer career focus with React, Nextjs, and AWS services.
 
 ### <p align="center">Come find me on [LinkedIn](https://www.linkedin.com/in/ksexton91/)!</p>
 
