@@ -41,6 +41,10 @@ I currently reside in Atlanta, GA, and come from an atypical software background
 
 ## <p align="center">👷 Currently Working On</p>
 
+### Hiropes Boulder Buddy
+
+In a quest for professional and physical self improvement, this will be a Nextjs 13 pwa powered by AWS Amplify with the purpose of providing documentation and visual tools for tracking personal rock climbing progression. Currently in the architacture design phase, this fullstack app will utilize the amplify pipeline to provide an auth'd and downloadable pwa, while applying the React skills learned from the first 15 months as a professional Frontend Engineer. 
+
 ### Cloudfront Log Parser
 
 An exercise in nodejs and data pipelines. Currently, this tool retrieves/organizes cloudfront logs from an S3 bucket, formats the logs into readable json formats, and creates a conglomerated json for a given month. Future implementation will run a scheduled lambda event to format and pipe the data into dynamoDB, where AWS Athena and Quicksight will produce useful website analytics.    
