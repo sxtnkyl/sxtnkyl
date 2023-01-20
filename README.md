@@ -54,7 +54,7 @@ An exercise in nodejs and data pipelines. Currently, this tool retrieves/organiz
 Fully AWS-cloud supported PWA/TWA mobile app. A place to find and trade beers, keep track of visited breweries, and unlock in app milestones. AWS Amplify is being utilized to incorporate user auth(Cognito), GraphQL API(AppSync), advanced data access patterns(DynamoDB), and in-app event triggers(Lambda). Nextjs will provide smooth server-side rendering, SEO, accessibility, and other necessary features to be deployed on the android app store. 
 
 ##
-## <p align="center">In the meantime, check out my other completed projects below or on my [portfolio](https://master.d1e8mypmrw25t4.amplifyapp.com	)! 👍</p>
+## <p align="center">In the meantime, check out my other completed projects below or on my [portfolio](https://sxtnkyl.github.io/portfolio2020/)! 👍</p>
 
 <!--
 guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
