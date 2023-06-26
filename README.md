@@ -4,7 +4,7 @@
 
 # <p align="center"> Hello, visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-My name is Kyle Sexton- a motivated, self-taught, Frontend Engineer. I love creating unique experiences and helpful tools with React and AWS services.
+My name is Kyle Sexton- a motivated, self-taught, Frontend Engineer. I love creating unique experiences and helpful tools with React, Nextjs, and AWS services.
 
 I currently reside in Atlanta, GA, and come from an atypical software background. I’m a former geologist who found a passion for web development and now have a Frontend Engineering career focus with React, while dabbling with Nextjs and AWS services on the side.
 
