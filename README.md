@@ -4,7 +4,7 @@
 
 # <p align="center"> Hello, visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-My name is Kyle Sexton- a motivated, self-taught, Frontend Engineer. I love creating unique experiences and helpful tools with React, Nextjs, and AWS services.
+My name is Kyle Sexton- a motivated, self-taught, Frontend Engineer. I love creating unique experiences and SaaS tools with React, Nextjs, and AWS services.
 
 I currently reside in Atlanta, GA, and come from an atypical software background. I’m a former geologist who found a passion for web development and now have a Frontend Engineering career focus with React, while dabbling with Nextjs and AWS services on the side.
 
@@ -43,15 +43,18 @@ I currently reside in Atlanta, GA, and come from an atypical software background
 
 ### Hiropes Boulder Buddy
 
-In a quest for professional and physical self improvement, this will be a Nextjs 13 pwa powered by AWS Amplify with the purpose of providing documentation and visual tools for tracking personal rock climbing progression. Currently in the architacture design phase, this fullstack app will utilize the amplify pipeline to provide an auth'd and downloadable pwa, while applying the React skills learned from the first 15 months as a professional Frontend Engineer. 
+In a quest for professional and physical self improvement, this is a Nextjs 13 browser app powered by AWS Amplify with the purpose of providing a structured routine for documentation and visualization of rock climbing progression. This fullstack app currently utilizes the amplify pipeline to provide an auth'd login, while applying enterprise level infrastructure which includes prod/dev pipelines and releases, commit linting and feature branch merging review standards, build checking, and scalable code practices.
+
+Currently, a user can perform CRUD operations on projects and workouts and will support data visualization of strength progression.
+
+### Beer Bulletin
+
+Fully AWS-cloud supported PWA/TWA mobile app. A place to find and trade beers, keep track of visited breweries, and unlock in app milestones. AWS Amplify is being utilized to incorporate user auth(Cognito), GraphQL API(AppSync), advanced data access patterns(DynamoDB), and in-app event triggers(Lambda). Nextjs will provide smooth server-side rendering, SEO, accessibility, and other necessary features to be deployed on the android app store. 
 
 ### Cloudfront Log Parser
 
 An exercise in nodejs and data pipelines. Currently, this tool retrieves/organizes cloudfront logs from an S3 bucket, formats the logs into readable json formats, and creates a conglomerated json for a given month. Future implementation will run a scheduled lambda event to format and pipe the data into dynamoDB, where AWS Athena and Quicksight will produce useful website analytics.    
 
-### Beer Bulletin
-
-Fully AWS-cloud supported PWA/TWA mobile app. A place to find and trade beers, keep track of visited breweries, and unlock in app milestones. AWS Amplify is being utilized to incorporate user auth(Cognito), GraphQL API(AppSync), advanced data access patterns(DynamoDB), and in-app event triggers(Lambda). Nextjs will provide smooth server-side rendering, SEO, accessibility, and other necessary features to be deployed on the android app store. 
 
 ##
 ## <p align="center">In the meantime, check out my other completed projects below or on my [portfolio](https://sxtnkyl.github.io/portfolio2020/)! 👍</p>
